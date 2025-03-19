@@ -91,7 +91,7 @@
   "buffers": [
     {
       "byteLength": 1606288,
-      "uri": "scene.bin"
+      "uri": "banana.bin"
     }
   ],
   "extensionsUsed": [
@@ -99,7 +99,7 @@
   ],
   "images": [
     {
-      "uri": "textures/banana_baseColor.png"
+      "uri": "banana_diffuse.png"
     }
   ],
   "materials": [
